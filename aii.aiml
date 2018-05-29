@@ -9,6 +9,12 @@
 <!-- as adopted by the ALICE A.I. Foundation.  -->
 <!-- Last modified 11/23/2011 -->
 <!-- -->
+<category><pattern>What is my seminar topic</pattern>
+<template>Automated bot</template>
+</category>
+<category><pattern>What is your name</pattern>
+<template>Sriv chatbot</template>
+</category>
 <category>
 <pattern>WHO IS LAUREN</pattern>
 <template><set name="she">Lauren</set> is a bot on Pandorabots.</template>
